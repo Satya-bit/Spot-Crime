@@ -28,6 +28,7 @@ crime awareness and prevention.
 ![image](https://github.com/user-attachments/assets/07fc3a0f-fbb6-4e51-ac56-5aa6e988b710)
 
 **How the Web App works**
+
 -So basically user can enter the description about the crime and choose the category of crime activity they noticed in the forum. They need to enter time and location where they witneesed the crime.
 
 -When they enter the forum they will also see past crimes committed within one mile radius near to the location they entered. If other people noticed, they can upvote the crime. If the user gets more than 5 upvote or if the category of that crime in that area is top 5 crimes in terms of frequency then his/her crime will be displayed on the map. Else it will be there in the discussion forum and the crime will not be displayed on the map.
@@ -41,6 +42,7 @@ crime awareness and prevention.
 ![image](https://github.com/user-attachments/assets/b18948f9-7234-4519-973d-a6ea3c315143)
 
 **Future Scope**
+
 1. Expansion to Other Cities
 - Scale the platform to cover additional urban areas beyond Los Angeles.
 
